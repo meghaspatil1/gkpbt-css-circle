@@ -1,8 +1,16 @@
-.blue {
-			background-color:blue
+.skyblue {
+			background-color:skyblue
+}
+.orange {
+			background-color:orange
 }
 .circle{
 			border-radius:50%;
-			width:300px;
-			height:300px;
+			width:500px;
+			height:500px;
+}
+.square{
+			border-radius:50%;
+			width:500px;
+			height:500px;
 }
