@@ -1,16 +1,13 @@
-.skyblue {
-			background-color:skyblue
+.blue {
+			background-color:blue
 }
-.orange {
-			background-color:orange
+.square{
+			
+			width:500px;
+			height:500px;
 }
 .circle{
 			border-radius:50%;
-			width:500px;
-			height:500px;
-}
-.square{
-			border-radius:50%;
-			width:500px;
-			height:500px;
+			width:700px;
+			height:700px;
 }
